@@ -1,0 +1,14 @@
+
+
+{
+    "firstName" : "Pepe",
+    "lastName" : "Trueno",
+    "birthdate": "2015-05-07",
+    "email": "pepetrueno@gmail.com",
+    "phone": "11111111111",
+    "street1": "Saltadilla 123",
+    "city": "Michoacan",
+    "stateProvince": "Morelos",
+    "postalCode": "6050",
+    "country": "Mexico"
+  }
