@@ -13,7 +13,7 @@ describe('intercept Mock', () => {
     dataPage.getInpuPassWord();
     dataPage.getButtonReg();
   });
- 
+
   it('login', () => {
     dataPage.getInputEmail(); 
     dataPage.getPass();

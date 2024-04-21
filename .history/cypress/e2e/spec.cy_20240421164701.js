@@ -1,6 +1,6 @@
 import { dataPage } from "../components/contactList";
 
-let path = "/contacts"
+let path = "/contactList"
 
 describe('intercept Mock', () => {
 
@@ -13,7 +13,7 @@ describe('intercept Mock', () => {
     dataPage.getInpuPassWord();
     dataPage.getButtonReg();
   });
- 
+
   it('login', () => {
     dataPage.getInputEmail(); 
     dataPage.getPass();
@@ -23,7 +23,7 @@ describe('intercept Mock', () => {
 
   it ('interecept', () => {
       
-      cy.intercept('GET', path, { //capturo el servicio que trae 
+      cy.intercept('GET', '/contacts', { //capturo el servicio que trae 
        fixture: '/fakeData.json'      // Leo desde el acrivo FakeData.json los contactos que le pasaré
       }).as('fixture')
     

@@ -1,0 +1,122 @@
+[
+  {
+    "firstName": "Pato",
+    "lastName": "abello",
+    "birthdate": "2015-05-07",
+    "email": "pepetrueno@gmail.com",
+    "phone": "11111111111",
+    "street1": "Saltadilla 123",
+    "city": "Michoacan",
+    "stateProvince": "Morelos",
+    "postalCode": "6050",
+    "country": "Mexico"
+  },
+  {
+    "firstName": "Juan",
+    "lastName": "Piedra",
+    "birthdate": "2014-04-06",
+    "email": "juanpiedra@gmail.com",
+    "phone": "22222222222",
+    "street1": "Rocosa 456",
+    "city": "Guadalajara",
+    "stateProvince": "Jalisco",
+    "postalCode": "7090",
+    "country": "Mexico"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Ríos",
+    "birthdate": "2013-03-05",
+    "email": "anarios@gmail.com",
+    "phone": "33333333333",
+    "street1": "Del Rio 789",
+    "city": "Monterrey",
+    "stateProvince": "Nuevo León",
+    "postalCode": "8020",
+    "country": "Mexico"
+  },
+  {
+    "firstName": "Luis",
+    "lastName": "Montaña",
+    "birthdate": "2012-02-04",
+    "email": "luismontaña@gmail.com",
+    "phone": "44444444444",
+    "street1": "Alta Cumbre 101",
+    "city": "Puebla",
+    "stateProvince": "Puebla",
+    "postalCode": "9010",
+    "country": "Mexico"
+  },
+  {
+    "firstName": "Sofía",
+    "lastName": "Luz",
+    "birthdate": "2011-01-03",
+    "email": "sofialuz@gmail.com",
+    "phone": "55555555555",
+    "street1": "Brillante 202",
+    "city": "Tijuana",
+    "stateProvince": "Baja California",
+    "postalCode": "10020",
+    "country": "Mexico"
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "Mar",
+    "birthdate": "2010-12-02",
+    "email": "carlosmar@gmail.com",
+    "phone": "66666666666",
+    "street1": "Oceánica 303",
+    "city": "Cancún",
+    "stateProvince": "Quintana Roo",
+    "postalCode": "11030",
+    "country": "Mexico"
+  },
+  {
+    "firstName": "Diana",
+    "lastName": "Campo",
+    "birthdate": "2009-11-01",
+    "email": "dianacampo@gmail.com",
+    "phone": "77777777777",
+    "street1": "Verde Valle 404",
+    "city": "Oaxaca",
+    "stateProvince": "Oaxaca",
+    "postalCode": "12040",
+    "country": "Mexico"
+  },
+  {
+    "firstName": "Roberto",
+    "lastName": "Sol",
+    "birthdate": "2008-10-31",
+    "email": "robertosol@gmail.com",
+    "phone": "88888888888",
+    "street1": "Caliente 505",
+    "city": "Mérida",
+    "stateProvince": "Yucatán",
+    "postalCode": "13050",
+    "country": "Mexico"
+  },
+  {
+    "firstName": "Patricia",
+    "lastName": "Luna",
+    "birthdate": "2007-09-30",
+    "email": "patricialuna@gmail.com",
+    "phone": "99999999999",
+    "street1": "Nocturna 606",
+    "city": "Durango",
+    "stateProvince": "Durango",
+    "postalCode": "14060",
+    "country": "Mexico"
+  },
+  {
+    "firstName": "Miguel",
+    "lastName": "Estrella",
+    "birthdate": "2006-08-29",
+    "email": "miguelestrella@gmail.com",
+    "phone": "10101010101",
+    "street1": "Celeste 707",
+    "city": "Zacatecas",
+    "stateProvince": "Zacatecas",
+    "postalCode": "15070",
+    "country": "Mexico"
+  }
+]

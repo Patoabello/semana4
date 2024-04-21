@@ -14,8 +14,7 @@ export const dataPage = {
         return cy.get('[name="username"]').click().type(firstname)
   },
   getPass:() => {
-    
-      return cy.get('#password').type('123456789')
+      return cy.get('[name="password"]').type('123456789')
   },
   getButtonLogi:() => {
       return cy.get('[value="Log In"]').click()
